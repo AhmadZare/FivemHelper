@@ -1,0 +1,16 @@
+78.157.42.100 metrics.fivem.net
+78.157.42.100 registry-internal.fivem.net
+78.157.42.100 status.fivem.net
+78.157.42.100 synapse.fivem.net
+78.157.42.100 status.cfx.re
+206.71.149.106 users.cfx.re
+78.157.42.100 content.cfx.re
+206.71.149.106 sentry.fivem.net
+78.157.42.100 runtime.fivem.net
+206.71.149.106 lambda.fivem.net
+78.157.42.100 changelogs-live.fivem.net
+78.157.42.100 servers-frontend.fivem.net
+206.71.149.106 cnl-hb-live.fivem.net
+206.71.149.106 policy-live.fivem.net
+206.71.149.106 keymaster.fivem.net
+206.71.149.106 myip.is
