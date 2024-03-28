@@ -12,13 +12,13 @@
     "lambda.fivem.net":"50.7.87.85",
     "changelogs-live.fivem.net":"78.157.42.100",
     "servers-frontend.fivem.net":"78.157.42.100",
-    "cnl-hb-live.fivem.net":"50.7.87.85",
+    "cnl-hb-live.fivem.net":"37.152.179.97",
     "policy-live.fivem.net":"50.7.87.85",
     "keymaster.fivem.net":"50.7.87.85",
+    "fivem.net":"50.7.87.85",
     "myip.is":"0",
-    "fivem.net":"50.7.87.85"
   },
   "successm":"حال 5 دقیقه فرصت دارید وارید بازی شوید ، برنامه به صورت خودکار پس از 5 دقیقه بسته خواهد شد ، درصوت بسته شدن برنامه تغیرات به حالت عادی باز میگردد",
   "version":"1.0",
-  "closeval":10
+  "closeval":9
 }
