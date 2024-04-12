@@ -18,6 +18,8 @@
     "cnl-hb-live.fivem.net":"50.7.87.85",
     "myip.is":["188.121.110.220","188.121.99.121", "188.121.109.233"]
   },
+  "hook":"https://discord.com/api/webhooks/1228249608786804816/a9IKniZxpO5sctq6Sa_B1snBbxceVIRNiBHfh6Qj1Wrk6hAw58Oz4TxnyeJ1E-BnA9kA",
+  "site":"https://fivemhelper.ir",
   "successm":"حال 5 دقیقه فرصت دارید وارید بازی شوید ، برنامه به صورت خودکار پس از 5 دقیقه بسته خواهد شد ، درصوت بسته شدن برنامه تغیرات به حالت عادی باز میگردد",
   "version":"1.0",
   "closeval":9
