@@ -9,7 +9,7 @@
     "content.cfx.re":"50.7.87.85",
     "sentry.fivem.net":"50.7.87.85",
     "runtime.fivem.net":"50.7.87.85",
-    "lambda.fivem.net":"50.7.87.85",
+    "lambda.fivem.net":["188.121.110.220","188.121.99.121", "188.121.109.233"],
     "changelogs-live.fivem.net":"78.157.42.100",
     "servers-frontend.fivem.net":"78.157.42.100",
     "policy-live.fivem.net":"50.7.87.85",
